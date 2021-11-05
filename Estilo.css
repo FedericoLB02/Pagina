@@ -1,0 +1,75 @@
+
+Header.Banner{
+	border: 5px;
+	border-style: solid;
+	color: white;
+}
+
+.TStoryline{
+font-family: cursive;
+font-style: italic;
+text-align: center;	
+font-size: 60px;
+color: white;
+}
+
+.TextStyle{
+font-family: cursive;
+font-style: italic;	
+font-size: 40px;
+color: white;	
+}
+
+.Portada{
+width: 1080;
+height: 520;
+border: 5px;
+border-style: solid;
+padding: 5px;
+color: white;
+}
+
+.Video{
+margin: 20px auto;
+align-items: center;
+border: 5px;
+width: 724px;
+height: 310px;
+border-style: solid;
+padding: 20px;
+color: white;
+}
+
+.BannerPortada{
+border: 5px;
+border-style: solid;
+color: white;
+}
+
+.BannerTrailer{
+border: 5px;
+border-style: solid;
+color: white;
+}
+
+.Storyline {
+font-family: cursive;
+font-style: italic;
+font-size: 40px;
+color: white;
+padding: 30px;
+}
+
+.Banner {
+text-align: center;
+Width=100%;
+Height=200px;
+border: black;
+}
+
+.TStoryline{
+font-size=“15px”;
+Font-color=“white”;
+
+
+}
